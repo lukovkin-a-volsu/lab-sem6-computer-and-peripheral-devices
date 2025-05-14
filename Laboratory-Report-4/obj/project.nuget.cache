@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "2UAx8GVdeNI=",
+  "success": true,
+  "projectFilePath": "C:\\Main\\University\\lab-sem6-computer-and-peripheral-devices\\Laboratory-Report-4\\Laboratory-Report-4.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\chxru\\.nuget\\packages\\system.codedom\\9.0.3\\system.codedom.9.0.3.nupkg.sha512",
+    "C:\\Users\\chxru\\.nuget\\packages\\system.management\\9.0.3\\system.management.9.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
